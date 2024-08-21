@@ -306,6 +306,17 @@ public class DoubleLinkedList<T> implements LinkedListInterface<T>{
         
     }
 
+    public T getIndex(int index) {
+        if (index < 0 || index >= size) {
+            throw new IndexOutOfBoundsException("Índice fuera de rango");
+        }
+        DoubleLinkedNode<T> current = head;
+        for (int i = 0; i < index; i++) {
+            current = current.getNext();
+        }
+        return current.getObject();
+    }
+
     @Override       //Sirve
     public T getPrevious(NodeInterface<T> node) {
         try {

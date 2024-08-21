@@ -27,35 +27,38 @@ Ejercicios Analitcos
                 } 
             return min; 
         }
+    
     5. Ejercicio: Encontrar Todos los Pares de Números en un Arreglo cuya Suma es un Número Dado 
         Descripción: 
-            Desarrolla una función que tome un arreglo de números enteros y un número objetivo. La función deberá encontrar todos los pares únicos de números dentro del arreglo que, al sumarse, sean igual al número objetivo. 
+            Desarrolla una función que tome un arreglo de números enteros y un número objetivo. La función deberá encontrar todos los pares únicos de números dentro del arreglo que, al sumarse, sean igual al número objetivo.
         Ejemplo: 
-            Entrada: arreglo = [1, 2, 3, 4, 5], objetivo = 6 
+            Entrada: arreglo = [1, 2, 3, 4, 5], objetivo = 6
             Salida esperada: [(1, 5), (2, 4)]
 
 
 
 Guía para la Presentación del Informe de Laboratorio 
 1. Portada 
-    ● Título del informe: Claro y descriptivo. 
-    ● Nombre del estudiante. 
-    ● Número de ID. 
-    ● Nombre de la materia: Análisis y Diseño de Algoritmos. 
-    ● Nombre del profesor. 
-    ● Fecha de entrega. 
+    ● Título del informe: Claro y descriptivo.                                                                                      LISTO
+    ● Nombre del estudiante.                                                                                                        LISTO
+    ● Número de ID.                                                                                                                 LISTO
+    ● Nombre de la materia: Análisis y Diseño de Algoritmos.                                                                        LISTO
+    ● Nombre del profesor.                                                                                                          LISTO
+    ● Fecha de entrega.                                                                                                             LISTO
 2. Índice 
-    ● Listado de las secciones del informe con número de página correspondiente. 3. Introducción 
-    ● Objetivo del laboratorio: Describir claramente qué se pretende lograr. 
-    ● Contexto: Breve descripción del tema y su relevancia. 
+    ● Listado de las secciones del informe con número de página correspondiente. 
+3. Introducción 
+    ● Objetivo del laboratorio: Describir claramente qué se pretende lograr.                                                        LISTO              
+    ● Contexto: Breve descripción del tema y su relevancia.                                                                         LISTO
 4. Enfoque Analítico y Empírico, cada proceso del laboratorio debe tener ambos enfoques siguiendo los siguientes pasos: 
-    ● Planteamiento del problema: Descripción detallada del problema a resolver. 
+    ● Planteamiento del problema: Descripción detallada del problema a resolver.
     ● Hipótesis: Presentar las hipótesis que se pretenden probar. 
     ● Detalles de la implementación: Lenguaje de programación, entorno de desarrollo, etc. 
     ● Enfoque analítico: 
         ○ Descripción del algoritmo: Explicación detallada del algoritmo o algoritmos utilizados.
-        ○ Justificación teórica: Razones teóricas para la selección del algoritmo. ○ Análisis de complejidad: Análisis teórico de la complejidad temporal y espacial. 
-    ● Enfoque empírico, resultados experimentales: 
+        ○ Justificación teórica: Razones teóricas para la selección del algoritmo. 
+        ○ Análisis de complejidad: Análisis teórico de la complejidad temporal. 
+    ● Enfoque empírico, resultados experimentales:
         ○ Presentar resultados de manera clara, utilizando tablas y gráficos cuando sea necesario. 
         ○ Comparar los resultados obtenidos con las hipótesis planteadas. 
 
@@ -72,22 +75,6 @@ Guía para la Presentación del Informe de Laboratorio
 
 9. Apéndices (si es necesario) 
     ● Incluir cualquier material adicional relevante, como código fuente, detalles extensivos de la implementación, o datos brutos de los experimentos. 
-
-
-Formato del Informe 
-    ● Fuente: Arial o Times New Roman, tamaño 12. 
-    ● Interlineado: 1.5 líneas. 
-    ● Márgenes: 2.5 cm en todos los lados. 
-    ● Numeración de páginas: En el pie de página, centrado.
-Atención: 
-    ● En este laboratorio se debe trabajar en grupos de dos (2) personas. 
-    ● Tendrá que sustentarse en un tiempo de máximo 10 minutos contando los resultados obtenidos del informe. 
-    ● Debe seleccionarse un solo algoritmo de los dos principales para sustentar en 5 minutos (el algoritmo de ordenamiento por inserción o el algoritmo de búsqueda binaria) y todos los secundarios (3, 4 y 5) en los otros 5 minutos. Sin embargo, todos los ejercicios deben realizarse para el informe. 
-    ● Se debe preparar una presentación con diapositivas o una ayuda visual. ● La entrega del informe es en formato pdf. 
-    ● Por cada ejercicio se deben aplicar los numerales 4, 5 y 6 de l sección “Guía para la Presentación del Informe de Laboratorio”
-
-
-
 
 
 
